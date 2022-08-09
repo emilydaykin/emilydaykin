@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   - [Green Country Data](https://green-data.netlify.app/) 🌏 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Country-Data-Visualisation)</small> &rarr; JavaScript, React, Sass, Chart.js 
   - [Holistars](https://holistars.netlify.app/) 🗺 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Holistars-Client)</small> &rarr; JavaScript, Python, React, Redux, Sass, Django, PostgreSQL
   - [Neighbour Needs](https://neighbour-needs.netlify.app/) 👥 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Neighbour-Needs-Client)</small> &rarr; JavaScript, MERN, Sass
-  - Pub Quiz Generator 🍻 &nbsp;[Live Site]() ~ [ReadMe & Code]()
-  - Basketball Connect-4 🏀 &nbsp;[Live Site]() ~ [ReadMe & Code]()
+  - [Pub Quiz Generator](https://pub-quiz-generator-ga-sei62.netlify.app/) 🍻 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Pub-Quiz-Generator)</small> &rarr; JavaScript, React, Sass
+  - [Basketball Connect-4](https://emilydaykin.github.io/Basketball-Connect4/) 🏀 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Basketball-Connect4)</small> &rarr; JavaScript, React, Sass
 - 🌱 &nbsp; Other projects I've had fun with:
   - Gifter-spin-off 👚  (GraphQL, Apollo)
   - Dynamic Web Scraper ⚙️ (Python, BeautifulSoup)
