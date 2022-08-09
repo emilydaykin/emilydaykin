@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
   - [Gifter](https://giftsbygifter.netlify.app/)&nbsp;🎁 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Gifter)</small>
   <small> &rarr; TypeScript, JavaScript, React, Redux, Sass, Jest, RTL, Stripe & Firebase </small>
-  - [ISDB](https://github.com/emilydaykin/Internet-Series-Database-Client) 🎬 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Internet-Series-Database-Client)</small> &rarr; JavaScript, MERN, Python 
-  - Green Country Data 🌏 &nbsp;[Live Site]() ~ [ReadMe & Code]()
-  - Holistars 🗺 &nbsp;[Live Site]() ~ [ReadMe & Code]()
-  - Neighbour Needs 👥 &nbsp;[Live Site]() ~ [ReadMe & Code]()
+  - [ISDB](https://internet-series-db.netlify.app/) 🎬 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Internet-Series-Database-Client)</small> &rarr; JavaScript, MERN, Python, JWT, Sass, Jest, RTL, Mocha, Chai, Supertest 
+  - [Green Country Data](https://green-data.netlify.app/) 🌏 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Country-Data-Visualisation)</small> &rarr; JavaScript, React, Sass, Chart.js 
+  - [Holistars](https://holistars.netlify.app/) 🗺 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Holistars-Client)</small> &rarr; JavaScript, Python, React, Redux, Sass, Django, PostgreSQL
+  - [Neighbour Needs](https://neighbour-needs.netlify.app/) 👥 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Neighbour-Needs-Client)</small> &rarr; JavaScript, MERN, Sass
   - Pub Quiz Generator 🍻 &nbsp;[Live Site]() ~ [ReadMe & Code]()
   - Basketball Connect-4 🏀 &nbsp;[Live Site]() ~ [ReadMe & Code]()
 - 🌱 &nbsp; Other projects I've had fun with:
