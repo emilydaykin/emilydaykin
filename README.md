@@ -1,4 +1,4 @@
-### 👋  Hi there, I'm Emily!
+## 👋  Hi there, I'm Emily!
 
 **Python&ensp;|&ensp;JavaScript&ensp;|&ensp;MERN&ensp;|&ensp;Testing &ensp;**
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   - [Gifter](https://giftsbygifter.netlify.app/)&nbsp;🎁 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Gifter)</small>
   <small> &rarr; TypeScript, JavaScript, React, Redux, Sass, Jest, RTL, Stripe & Firebase </small>
-  - ISDB 🎬 &nbsp;[Live Site]() ~ [ReadMe & Code]()
+  - [ISDB](https://github.com/emilydaykin/Internet-Series-Database-Client) 🎬 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Internet-Series-Database-Client)</small> &rarr; JavaScript, MERN, Python 
   - Green Country Data 🌏 &nbsp;[Live Site]() ~ [ReadMe & Code]()
   - Holistars 🗺 &nbsp;[Live Site]() ~ [ReadMe & Code]()
   - Neighbour Needs 👥 &nbsp;[Live Site]() ~ [ReadMe & Code]()
