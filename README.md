@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   - [Holistars](https://holistars.netlify.app/) 🗺 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Holistars-Client)</small> &rarr; JavaScript, Python, React, Redux, Sass, Django, PostgreSQL
   - [Neighbour Needs](https://neighbour-needs.netlify.app/) 👥 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Neighbour-Needs-Client)</small> &rarr; JavaScript, MERN, Sass
   - [Pub Quiz Generator](https://pub-quiz-generator-ga-sei62.netlify.app/) 🍻 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Pub-Quiz-Generator)</small> &rarr; JavaScript, React, Sass
-  - [Basketball Connect-4](https://emilydaykin.github.io/Basketball-Connect4/) 🏀 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Basketball-Connect4)</small> &rarr; JavaScript, React, Sass
+  - [Basketball Connect-4](https://emilydaykin.github.io/Basketball-Connect4/) 🏀 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Basketball-Connect4)</small> &rarr; JavaScript, HTML, CSS
 - 🌱 &nbsp; Other projects I've had fun with:
-  - Gifter-spin-off 👚  (GraphQL, Apollo)
-  - Dynamic Web Scraper ⚙️ (Python, BeautifulSoup)
-  - Whack-A-Mole 🦨 (Java)
-  - Sound Board 🎶
-  - Jigsaw 🧩 (JavaScript, HTML, CSS &larr; my first ever project!)
+  - [Gifter-spin-off](https://github.com/emilydaykin/graphql) 👚 (GraphQL, Apollo)
+  - [Dynamic Web Scraper](https://github.com/emilydaykin/dynamic_web_scraper) ⚙️ (Python, Pytest, BeautifulSoup)
+  - [Whack-A-Mole](https://github.com/emilydaykin/WhackAMole) 🦨 (Java)
+  - [Sound Board](https://github.com/emilydaykin/sound-board) 🎶 (JavaScript, HTML, CSS)
+  - [Jigsaw](https://github.com/emilydaykin/jigsaw) 🧩 (JavaScript, HTML, CSS)
