@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
   - [Personal Portfolio](https://emilydaykin.dev/)&nbsp;👩🏽‍💻 <small> JavaScript, NextJS, Sass </small>
   - [Gifter](https://giftsbygifter.netlify.app/)&nbsp;🎁 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Gifter)</small>
-  <small> &rarr; TypeScript, JavaScript, React, Redux, Sass, Jest, RTL, Stripe & Firebase </small>
+  <small> &rarr; TypeScript, JavaScript, ReactJS, Redux, Sass, Jest, RTL, Stripe & Firebase </small>
   - [Weather App](https://weather-app-emilydaykin.vercel.app/) ☔️ &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/weather-app)</small> &rarr; TypeScript, NextJS, Sass 
   - [ISDB](https://internet-series-db.netlify.app/) 🎬 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Internet-Series-Database-Client)</small> &rarr; JavaScript, MERN, Python, JWT, Sass, Jest, RTL, Mocha, Chai, Supertest 
-  - [Green Country Data](https://green-data.netlify.app/) 🌏 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Country-Data-Visualisation)</small> &rarr; JavaScript, React, Sass, Chart.js 
-  - [Holistars](https://holistars.netlify.app/) 🗺 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Holistars-Client)</small> &rarr; JavaScript, Python, React, Redux, Sass, Django, PostgreSQL
+  - [Green Country Data](https://green-data.netlify.app/) 🌏 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Country-Data-Visualisation)</small> &rarr; JavaScript, ReactJS, Sass, Chart.js 
+  - [Holistars](https://holistars.netlify.app/) 🗺 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Holistars-Client)</small> &rarr; JavaScript, Python, ReactJS, Redux, Sass, Django, PostgreSQL
   - [Neighbour Needs](https://neighbour-needs.netlify.app/) 👥 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Neighbour-Needs-Client)</small> &rarr; JavaScript, MERN, Sass
-  - [Pub Quiz Generator](https://pub-quiz-generator-ga-sei62.netlify.app/) 🍻 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Pub-Quiz-Generator)</small> &rarr; JavaScript, React, Sass
+  - [Pub Quiz Generator](https://pub-quiz-generator-ga-sei62.netlify.app/) 🍻 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Pub-Quiz-Generator)</small> &rarr; JavaScript, ReactJS, Sass
   - [Basketball Connect-4](https://emilydaykin.github.io/Basketball-Connect4/) 🏀 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Basketball-Connect4)</small> &rarr; JavaScript, HTML, CSS
 - 🌱 &nbsp; Other projects I've had fun with:
   - [Goals](https://github.com/emilydaykin/graphql) 🎯 (React Native)
