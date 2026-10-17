@@ -1,6 +1,6 @@
 ### 👋  Hi there, I'm Emily!
 
-**JavaScript&ensp;|&ensp;TypeScript&ensp;|&ensp;Python&ensp;|&ensp;R&ensp;|&ensp;Java&ensp;**
+**TypeScript&ensp;|&ensp;JavaScript&ensp;|&ensp;Python&ensp;|&ensp;Ruby&ensp;|&ensp;Java&ensp;|&ensp;R&ensp;**
 <!--
 **emilydaykin/emilydaykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
