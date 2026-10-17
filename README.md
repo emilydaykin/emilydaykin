@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - [Pub Quiz Generator](https://pub-quiz-generator-ga-sei62.netlify.app/) 🍻 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Pub-Quiz-Generator)</small> &rarr; JavaScript, ReactJS, Sass
   - [Basketball Connect-4](https://emilydaykin.github.io/Basketball-Connect4/) 🏀 &nbsp;<small>[(Code & ReadMe)](https://github.com/emilydaykin/Basketball-Connect4)</small> &rarr; JavaScript, HTML, CSS
 - 🌱 &nbsp; Other projects I've had fun with:
-  - [Goals](https://github.com/emilydaykin/graphql) 🎯 (React Native)
+  - [Goals](https://github.com/emilydaykin/Goals) 🎯 (React Native)
   - [Gifter-spin-off](https://github.com/emilydaykin/graphql) 👚 (GraphQL, Apollo)
   - [Dynamic Web Scraper](https://github.com/emilydaykin/dynamic_web_scraper) ⚙️ (Python, Pytest, BeautifulSoup)
   - [Whack-A-Mole](https://github.com/emilydaykin/WhackAMole) 🦨 (Java)
